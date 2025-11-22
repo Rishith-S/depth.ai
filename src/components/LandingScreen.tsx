@@ -34,7 +34,7 @@ export default function LandingScreen({ handleFileChange }: { handleFileChange: 
                 </p>
             </div>
             <div className="w-1/2 h-full flex items-center relative z-20">
-                <img src="src/assets/mv33.png" alt="mv33" className="w-[25vw] border border-tbi-900 h-[75vh] object-fit" />
+                <img src="/mv33.png" alt="mv33" className="w-[25vw] border border-tbi-900 h-[75vh] object-fit" />
                 <div className="w-1/2 h-fit flex absolute bottom-16 right-24 flex-col gap-4 border border-gray-400 hover:border-[#CCFF00] p-4 bg-tbi-800 group">
                     <div className="flex flex-row items-center justify-between">
                         <p className="text-gray-400 font-mono">INPUT SOURCE</p>
