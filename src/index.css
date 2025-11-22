@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+:root {
+  background-color: #000000;
+}
+
+@theme {
+  --color-tbi-900: #CCFF00;
+  --color-tbi-800: #0a0a0a;
+}
